@@ -9,4 +9,4 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 `#F1F1F1,#000000,#DDDDDD,#1F1F1F,#E5E5E5,#1F1F1F,#39E500,#CC0F16,#243959,#FFFFFF`
 
 ##### Toronto Maple Leafs 🏒
-`#003D7D,#003D7D,#00205B,#FFFFFF,#0183DA,#FFFFFF,#39E500,#CC4400,#003D7D,#FFFFFF`
+`#003E7C,#003D7D,#FFFFFF,#000000,#00488E,#FFFFFF,#39E500,#F82E24,#003D7D,#FFFFFF`

@@ -16,3 +16,6 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 
 ##### Toronto Blue Jays ⚾️
 `#134A8E,#2C3849,#D7D7D7,#134A8E,#1D2D5C,#FFFFFF,#94E864,#E8291C,#1D2D5C,#FFFFFF`
+
+##### Synthwave 🌃
+`000E33,#FAFAFA,#A742FF,#00FFFF,#0E0B01,#00F7FF,#FF00EE,#FC0000,#BF0069,#FFFFFF`

@@ -5,6 +5,12 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 ##### Hover 💻
 `#2B333B,#2C3849,#229E87,#FFFFFF,#1D8975,#FFFFFF,#94E864,#466AEC,#2B333B,#FFFFFF`
 
+##### Enom 🌎
+`#49484D,#2C3849,#EF6C45,#FFFFFF,#6AC1C9,#FFFFFF,#94E864,#EF6C45,#333333,#FFFFFF`
+
+##### OpenSRS 🌎
+`#555555,#2C3849,#F37D27,#FFFFFF,#1F909A,#FFFFFF,#94E864,#F37D27,#F37D27,#FFFFFF`
+
 ##### Fastmail 💌
 `#F1F1F1,#000000,#DDDDDD,#1F1F1F,#E5E5E5,#1F1F1F,#39E500,#CC0F16,#243959,#FFFFFF`
 

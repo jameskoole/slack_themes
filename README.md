@@ -13,3 +13,6 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 
 ##### Toronto Maple Leafs 🏒
 `#003E7C,#003D7D,#FFFFFF,#000000,#00488E,#FFFFFF,#39E500,#F82E24,#003D7D,#FFFFFF`
+
+##### Toronto Blue Jays ⚾️
+`#134A8E,#2C3849,#D7D7D7,#134A8E,#1D2D5C,#FFFFFF,#94E864,#E8291C,#1D2D5C,#FFFFFF`

@@ -25,3 +25,6 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 
 ##### Synthwave 🌃
 `#000E33,#FAFAFA,#A742FF,#00FFFF,#0E0B01,#00F7FF,#FF00EE,#FC0000,#BF0069,#FFFFFF`
+
+##### Hacker News
+`#FFFFFF,#2C3849,#FF6600,#FFFFFF,#9A9A9A,#111111,#3BA100,#9A9A9A,#FF6600,#FFFFFF`

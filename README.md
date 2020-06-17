@@ -28,3 +28,6 @@ This is just a collection of a few Slack themes I've made (and use) for the earl
 
 ##### Hacker News 📰
 `#FFFFFF,#2C3849,#FF6600,#FFFFFF,#9A9A9A,#111111,#3BA100,#9A9A9A,#FF6600,#FFFFFF`
+
+##### Github ⌨️
+`#FFFFFF,#2C3849,#F1F8FF,#000000,#F6F8FA,#000000,#2EBC4E,#E36209,#24292E,#FFFFFF`
